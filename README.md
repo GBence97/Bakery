@@ -61,8 +61,13 @@ Futtasd az import.php-t a következő parancs segítségével:
 
 Feladat:
 1.Dolgozd fel a csatolt data.json fájlt és mentsd el egy adatbázisba (import.php)
+
 2.Számold ki az utolsó hét árbevételét (salesOfLastWeek.php)
+
 3.Külön listában jelenítsd meg a gluténmentes, a laktózmentes és a glutén és laktózmentes termékek nevét és árát (product_list.php) 
+
 4.Számold ki az utolsó hét profitját (bevétel-alapanyag_költség) (profit.php)
+
 5.Számold ki hogy a különböző termékekből külön-külön mennyit lehet maximum legyártani a jelenlegi készletből (max_production_calculation.php)
+
 6.Számold ki a következő rendelés költségét és profitját (calculate_order_profit.php)
