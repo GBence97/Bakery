@@ -60,6 +60,7 @@ Futtasd az import.php-t a következő parancs segítségével:
 - php import.php
 
 Feladat:
+
 1.Dolgozd fel a csatolt data.json fájlt és mentsd el egy adatbázisba (import.php)
 
 2.Számold ki az utolsó hét árbevételét (salesOfLastWeek.php)
